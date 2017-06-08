@@ -1,0 +1,23 @@
+{
+    "name" : "Ikom/PingPageBundle",
+    "description" : "A ping page for Ikom microservices",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "François De Matos",
+        "email" : "f.dematos@ikom.fr"
+    }],
+    "keywords" : [
+        "Ikom ping page bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {},
+    "autoload" : {
+        "psr-0" : {
+            "Ikom\\PingPageBundle" : ""
+        }
+    },
+    "target-dir" : "Ikom/PingPageBundle",
+    "repositories" : [{}]
+}
